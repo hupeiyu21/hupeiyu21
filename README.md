@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peiyu Hu</h1>
 <h3 align="center">Computer science student at XJTLU</h3>
 
-- 🔭 I’m currently working on **Edge Bunding**
-
 - 🌱 I’m currently learning **Machine learning, computer vision,python**
 
 - 📫 How to reach me **tootsieq4ngx92@gmail.com**
