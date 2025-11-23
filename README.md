@@ -1,5 +1,8 @@
 # Hi 👋, I'm Peiyu Hu
 
+I am a **PhD Candidate in Computer Science at Xi’an Jiaotong-Liverpool University (XJTLU)**. 
+
+
 - 🔭 I'm currently working on Generative Recommendation (GenRec)
 - Large Language Models (LLMs)
 - Multimodal Representation Learning
@@ -11,3 +14,6 @@
 
   
 
+
+| <a href="https://github.com/hupeiyu21"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hupeiyu21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Peiyu's github stats" /></a> | <a href="https://github.com/hupeiyu21"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hupeiyu21&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
