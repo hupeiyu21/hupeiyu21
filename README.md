@@ -1,8 +1,5 @@
 # Hi 👋, I'm Peiyu Hu
 
-I am a **PhD Candidate in Computer Science at Xi’an Jiaotong-Liverpool University (XJTLU)**. 
-
-
 - 🔭 I'm currently working on Generative Recommendation (GenRec)
 - Large Language Models (LLMs)
 - Multimodal Representation Learning
